@@ -1,0 +1,17 @@
+[33mcommit 0fc2c2ee9ee873735e0856d5d4da8336beeddd32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Denis24NN <newappianway87@gmail.com>
+Date:   Mon Apr 11 13:22:33 2022 +0300
+
+    Добавил карточку с мясом и сделал список  адаптивным
+
+[33mcommit 749c8beadc96354251da80031f1bf742dda4be7e[m
+Author: Denis24NN <newappianway87@gmail.com>
+Date:   Mon Apr 11 13:18:18 2022 +0300
+
+    Корзину сделал вторым элементом
+
+[33mcommit c2a069a0c90522ba8bdbe2791e0f68387be3e324[m
+Author: Denis24NN <newappianway87@gmail.com>
+Date:   Mon Apr 11 13:15:26 2022 +0300
+
+    Округление до сотых сделано
